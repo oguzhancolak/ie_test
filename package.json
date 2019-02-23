@@ -2,16 +2,16 @@
   "name": "ie_test",
   "version": "1.0.0",
   "description": "Web ionic ie test",
-  "scripts": [
+  "scripts": {
 	"start": "http-server ."
-  ],
+  },
   "keywords": [
     "ie",
     "heroku"
   ],
-  "dependencies": [
+  "dependencies": {
 	"http-server": "0.11.1"
-  ],
+  },
   "author": "oguzhancolak",
   "license": "MIT"
 }
