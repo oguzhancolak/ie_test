@@ -1,0 +1,11 @@
+{
+  "name": "ie_test",
+  "version": "1.0.0",
+  "description": "Web ionic ie test",
+  "keywords": [
+    "ie",
+    "heroku"
+  ],
+  "author": "oguzhancolak",
+  "license": "MIT"
+}
